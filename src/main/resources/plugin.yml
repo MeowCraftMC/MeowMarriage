@@ -1,0 +1,8 @@
+name: MeowMarriage
+version: '${version}'
+main: cx.rain.mc.meowmarriage.Marriage
+api-version: 1.17
+prefix: MeowMarriage
+authors: [ qyl27 ]
+description: Meow meow meow~ We are a ball of cats.
+website: https://github.com/MeowCraftMC/MeowMarriage
